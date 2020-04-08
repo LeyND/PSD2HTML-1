@@ -1,3 +1,20 @@
-Reverse now <i class="fa fa-arrow-right"></i>
-<i class="fa fa-play"></i>
-<i class="fas fa-bars menu__collapse"></i> 
+ <li>
+              <a href="#">
+                <i class="fab fa-facebook"></i>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <i class="fab fa-twitter"></i>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <i class="fab fa-google-plus"></i>
+              </a>
+            </li>
+            <li>
+              <a href="#">
+                <i class="fab fa-instagram"></i>
+              </a>
+            </li>
